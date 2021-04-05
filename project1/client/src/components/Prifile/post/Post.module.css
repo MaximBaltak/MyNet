@@ -1,0 +1,15 @@
+.post{
+    display: flex;
+    list-style-type: none;
+    margin-top: 20px;
+    
+    
+}
+ .post img{
+    width: 60px;
+    border-radius: 100%;
+}
+ .post p{
+    margin-left: 20px;
+    margin-top: 20px;
+}

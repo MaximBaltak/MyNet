@@ -1,0 +1,29 @@
+.wapp{
+    display: flex;
+    width: 250px;
+    margin-top: 20px;
+    justify-content: center;
+    float: right;
+}
+.wapp img{
+    width: 30px;
+    height: 30px;
+    border-radius: 100%;
+}
+.massage{
+    min-height: 47px;
+    width: 201px;
+    border-radius: 16px;
+    background: linear-gradient(to top, #4169E1, #1E90FF);
+    padding: 10px;
+    margin-left: 20px;
+    color: white;
+    font-weight: 700;
+}
+
+.title{
+    
+     margin-left: 341px;
+     margin-bottom: 0px;
+    
+}

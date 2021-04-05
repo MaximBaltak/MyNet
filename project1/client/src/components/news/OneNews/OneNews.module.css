@@ -1,0 +1,32 @@
+.wap{
+    width: 80%;
+    margin: 0 auto;
+    min-height: 400px;
+    background-color: white;
+    border: solid 1px black;
+    border-radius: 10px;
+    margin-top: 50px;
+    padding: 50px;
+
+}
+
+.wap img{
+    width: 733px;
+    height: 421px;
+    display: block;
+    margin: 0 auto;
+}
+
+.wap h2{
+    font-weight: 700;
+    font-size: 24px;
+}
+.wap p{
+    font-size: 20px;
+    font-weight: 400;
+}
+.date{
+    font-size: 13px;
+    color: #696969;
+    font-weight: 400;
+}

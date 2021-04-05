@@ -1,0 +1,23 @@
+.window{
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    width: 121px;
+    height: 63px;
+    background-color: white;
+    border: solid 1px  #1893FF;
+    transform: translate(480px, 26px);
+    border-radius: 12px;
+}
+.window a{
+    display: block;
+    margin-top: 20px;
+    text-decoration: none;
+    color:  #1893FF;
+    font-size: 11px;
+    font-weight: 300;
+    text-align: center;
+}
+.active{
+    display: block;
+}

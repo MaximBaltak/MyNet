@@ -1,0 +1,15 @@
+
+.wap{
+    grid-column: 2/3;
+}
+
+.wap textarea{
+ padding: 10px;
+ background-color: white;
+ resize: none;
+ outline: none;
+ border: solid 1px  #531a50;
+ width: 584px;
+ min-height: 10px;
+
+}

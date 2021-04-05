@@ -1,0 +1,14 @@
+.search{
+    outline: none;
+    border: none;
+    border-bottom: solid 1px black;
+    width: 70%;
+    height: 40px;
+    padding-left: 27px;
+}
+.img{
+    position: relative;
+    width: 20px;
+    right: 70%;
+    transform: translateY(6px);
+}

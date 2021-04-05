@@ -1,0 +1,19 @@
+.friends{
+    width: 70%;
+    height: 696px;
+    overflow: auto;
+    margin-top: 20px;
+
+}
+.friends::-webkit-scrollbar{
+    width: 10px;
+}
+ .title{
+    font-size: 24px;
+    font-weight: 700;
+    color:  #1893FF;;
+}
+.title span{
+    font-weight: 400;
+    color: gray;
+}

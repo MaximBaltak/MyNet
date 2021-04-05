@@ -1,0 +1,54 @@
+.wap{
+    background-color: lightgray;
+    position: relative;
+}
+
+.news{
+    height: 766px;
+    overflow-y: auto;
+    margin-top: 40px;
+}
+.news::-webkit-scrollbar{
+    width: 0;
+}
+.button{
+    height: 44px;
+    display: block;
+    position: relative;
+    left: 70%;
+    top: 20px;
+    width: 160px;
+    border: none;
+    background-color: #1E90FF;
+    border-radius: 13px;
+    box-shadow: 2px 4px 3px #1e90ff;
+    text-align: center;
+    color: white;
+    font-size: 14px;
+    font-weight: 700;
+    outline: none;
+    cursor: pointer;
+}
+.buttonUpdate{
+    height: 44px;
+    display: block;
+    position: relative;
+    left: 10%;
+    width: 160px;
+    border: none;
+    background-color: #1E90FF;
+    border-radius: 13px;
+    box-shadow: 2px 4px 3px #1e90ff;
+    text-align: center;
+    color: white;
+    font-size: 14px;
+    font-weight: 700;
+    outline: none;
+    cursor: pointer;
+    top: 64px;
+}
+.loading{
+    display: block;
+    margin: 0 auto;
+    padding-top: 65px;
+}

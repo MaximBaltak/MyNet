@@ -1,0 +1,18 @@
+.gread{
+  display: grid;
+  grid-template-rows: 60px 1fr;
+  grid-template-columns: minmax(100px,200px)  1fr;
+  grid-template-areas: 
+                      "header header"
+                      "nav content";
+  width: 1170px;
+  margin: 0 auto;
+  grid-gap: 30px;
+}
+.content {
+  grid-area: content;
+  height: 100%;
+  position: relative;
+}
+
+
